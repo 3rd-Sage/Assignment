@@ -1,0 +1,31 @@
+
+* {
+   box-sizing: border-box;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   font-size: 11;
+   color: white;
+   background-image: url("https://imageio.forbes.com/specials-images/imageserve/5ed68e8310716f0007411996/0x0.jpg?format=jpg&width=1200");
+}
+html, body{
+   margin: 0.5;
+   padding: 0;
+}
+.main-header{    
+   background-color: rgba(24, 20, 20, 0.719);    
+   background-image: margin="" url("https://images.unsplash.com/photo-1636953056323-9c09fdd74fa6?ixlib=rb-1.2.1&w=1080&fit=max&q=80&fm=jpg&crop=entropy&cs=tinysrgb");
+   background-blend-mode: multiply;
+   background-position: center;
+   background-size: cover;
+   padding-bottom: 30px;
+}
+.main-header{
+   margin-top: none;
+}
+
+.main-footer{
+   border-inline: initial;
+   display: inline;
+}
+.nav main-nav{
+   display: inline-block;
+}
